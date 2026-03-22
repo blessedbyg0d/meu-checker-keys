@@ -76,7 +76,11 @@
         "label": "7 Dias"
     },
     "NOX-2YJ3-7UNT-H2CV": {
-        "expires": "2026-03-23T01:33:20+00:00",
+        "expires": "2026-03-23T01:33:20.851414+00:00",
+        "label": "1 Dia"
+    },
+    "NOX-Y7WK-XPWS-MK3R": {
+        "expires": "2026-03-23T01:38:38.402140+00:00",
         "label": "1 Dia"
     }
 }
