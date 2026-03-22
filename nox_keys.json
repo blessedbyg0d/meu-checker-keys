@@ -80,7 +80,11 @@
         "label": "1 Dia"
     },
     "NOX-Y7WK-XPWS-MK3R": {
-        "expires": "2026-03-23T01:38:38+00:00",
+        "expires": "2026-03-23T01:38:38.402140+00:00",
+        "label": "1 Dia"
+    },
+    "NOX-C429-AEMZ-OZQA": {
+        "expires": "2026-03-23T01:43:34.415107+00:00",
         "label": "1 Dia"
     }
 }
