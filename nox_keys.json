@@ -42,5 +42,9 @@
     "NOX-AWL0-HAA9-QBXB": {
         "expires": "2026-03-23T01:12:55.353099+00:00",
         "label": "1 Dia"
+    },
+    "NOX-N8AB-AESK-0FAB": {
+        "expires": "PERMANENTE",
+        "label": "Permanente"
     }
 }
